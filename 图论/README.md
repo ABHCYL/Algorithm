@@ -4,6 +4,7 @@
     邻接矩阵、邻接表、链式前向星
 ## 最小生成树
     kruskal算法、prim算法
+![](https://cdn.luogu.com.cn/upload/image_hosting/8jz47n7c.png)
 ## 最短路  
     全源最短路Floyd、Jnhonson，单源最短路Dijkstra、Bellman-Ford、SPFA(队列优化的Bellman-Ford)
 ## 拓扑排序
