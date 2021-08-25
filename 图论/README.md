@@ -7,5 +7,7 @@
 ![](https://cdn.luogu.com.cn/upload/image_hosting/8jz47n7c.png)
 ## 最短路  
     全源最短路Floyd、Jnhonson，单源最短路Dijkstra、Bellman-Ford、SPFA(队列优化的Bellman-Ford)
+![](https://cdn.luogu.com.cn/upload/image_hosting/dadaof4g.png)
 ## 拓扑排序
     队列实现+入度出度+正反跑图=AOE关键路径问题
+![](https://cdn.luogu.com.cn/upload/image_hosting/hrdfybl1.png)
